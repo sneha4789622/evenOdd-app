@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.container {
+  background-color: #ff6e7f;
+  width: 150px;
+  padding: 10px;
+  color: white;
+}
+.count {
+  background-color: #bfe9ff;
+  width: 150px;
+  padding: 10px;
+  color: black;
+}
+.paragraph {
+  background-color: #334155;
+  width: 150px;
+  padding: 10px;
+  color: white;
+}
+.button {
+  background-color: #ffffff;
+  width: 150px;
+  padding: 10px;
+  color: black;
+}
+.description {
+  background-color: #1e293b;
+  width: 150px;
+  padding: 10px;
+  color: white;
+}
